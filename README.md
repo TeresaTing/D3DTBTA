@@ -7,4 +7,5 @@ PDF free download link：D3DTBTA.pdf
 
 __D3DTBTA network structure：__
 
-![Uploading D3DTBTA_network.jpg…]()
+
+![D3DTBTA_network](https://github.com/TeresaTing/D3DTBTA/assets/33770507/5c1f45e5-e268-46c8-ad42-77986506a2ab)
